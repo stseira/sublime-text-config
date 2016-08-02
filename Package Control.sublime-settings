@@ -1,0 +1,32 @@
+{
+	"bootstrapped": true,
+	"in_process_packages":
+	[
+	],
+	"installed_packages":
+	[
+		"Boxy Theme",
+		"BracketHighlighter",
+		"Column Select",
+		"CTags",
+		"DiffTabs",
+		"DocBlockr",
+		"EncodingHelper",
+		"GoToTest",
+		"INI",
+		"LineEndings",
+		"nginx",
+		"Package Control",
+		"PHP-Twig",
+		"Phpcs",
+		"PhpDoc",
+		"Predawn",
+		"Pretty JSON",
+		"SCSS",
+		"SideBarEnhancements",
+		"SqlBeautifier",
+		"SublimeLinter",
+		"SublimeLinter-php",
+		"SublimeLinter-phpcs"
+	]
+}
